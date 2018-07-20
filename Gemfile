@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem 'gmail', '~> 0.6.0'
+gem 'gmail', '~> 0.7.1'
